@@ -29,8 +29,10 @@ Thumbs.db
 .agents/
 .claude/
 backups/
-cloudflared/
+cloudflared
 temporary/
+backend/data/whatsapp-session/
+backend/uploads/
 
 # Database files
 # (User explicitly requested to include .mdb in this repo, so we don't ignore it here)
