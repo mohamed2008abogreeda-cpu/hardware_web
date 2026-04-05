@@ -1,0 +1,37 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+dist/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+tunnel.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project specific
+.agent/
+.agents/
+.claude/
+backups/
+cloudflared/
+temporary/
+
+# Database files
+# (User explicitly requested to include .mdb in this repo, so we don't ignore it here)
+# *.mdb 

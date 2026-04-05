@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../home/foggy/Downloads/sneat-vuetify-nuxtjs-admin-template-free-v1.0.0"
+		}
+	],
+	"settings": {
+		"typescript.tsdk": "node_modules/typescript/lib",
+		"emmet.includeLanguages": {
+			"vue-html": "html",
+			"vue": "html"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html style="background: gray"><body>
+<script>
+const files = [
+  "media__1775045885041.png",
+  "media__1775044154808.png",
+  "media__1775043146668.png",
+  "media__1775043021871.png",
+  "media__1775042064623.png",
+  "media__1775059746480.png",
+  "media__1775059961315.png",
+  "media__1775126275621.png",
+  "media__1775126638697.jpg",
+  "media__1775126678111.png",
+  "media__1775127415336.png"
+];
+files.forEach(f => {
+  document.body.innerHTML += `<div><h3>${f}</h3><img src="/test/${f}" style="max-width:300px; border: 1px solid red;"/></div>`;
+});
+</script>
+</body></html>

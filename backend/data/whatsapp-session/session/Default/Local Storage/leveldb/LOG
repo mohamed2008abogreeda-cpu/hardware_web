@@ -1,0 +1,6 @@
+2026/04/05-12:57:06.818 6ef5e Reusing MANIFEST /media/foggy/test4/hardware/backend/data/whatsapp-session/session/Default/Local Storage/leveldb/MANIFEST-000001
+2026/04/05-12:57:06.969 6ef5e Recovering log #13
+2026/04/05-12:57:07.007 6ef5e Reusing old log /media/foggy/test4/hardware/backend/data/whatsapp-session/session/Default/Local Storage/leveldb/000013.log 
+2026/04/05-14:38:10.877 6ef60 Level-0 table #17: started
+2026/04/05-14:38:12.095 6ef60 Level-0 table #17: 18594 bytes OK
+2026/04/05-14:38:12.294 6ef60 Delete type=0 #13
